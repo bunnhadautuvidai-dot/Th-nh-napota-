@@ -1,0 +1,5 @@
+{
+  "name": "Bảng đẹp 1.1 Thay trang phục ",
+  "description": "An AI-powered web application that allows users to virtually try on outfits. Upload a photo of a person and a photo of a garment, and the AI will generate images of the person wearing the new outfit.",
+  "requestFramePermissions": []
+}
